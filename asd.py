@@ -38,4 +38,4 @@ def asd(a,b,c0,n,a0,b0,r):
             for i in range(1,a+1):
                 b = b*i
     return r
-asd0(3)
+asd0(9)
